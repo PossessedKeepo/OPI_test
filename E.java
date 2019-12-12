@@ -27,4 +27,19 @@ public class E extends null {
     public Object rr() {
         return null;
     }
+<<<<<<< HEAD
+=======
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void aa() {
+        return;
+    }
+>>>>>>> blue1
 }

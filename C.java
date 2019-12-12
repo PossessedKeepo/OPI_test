@@ -35,4 +35,19 @@ public class C extends null implements I {
     public Object pp() {
         return this;
     }
+<<<<<<< HEAD
+=======
+
+    public double ad() {
+        return 12.12;
+    }
+
+    public byte oo() {
+        return 1;
+    }
+
+    public void aa() {
+        return;
+    }
+>>>>>>> blue1
 }
