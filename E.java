@@ -11,4 +11,8 @@ public class E {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
