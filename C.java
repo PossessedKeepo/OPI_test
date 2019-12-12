@@ -27,4 +27,8 @@ public class C implements I {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
