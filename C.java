@@ -1,4 +1,4 @@
-public class C implements I {
+public class C extends null implements I {
 
     private long e = 1234;
 
@@ -22,5 +22,17 @@ public class C implements I {
 
     public Object rr() {
         return null;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public Object pp() {
+        return this;
     }
 }
