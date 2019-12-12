@@ -19,16 +19,4 @@ public class C implements I {
     public int ae() {
         return 8;
     }
-
-    public Object rr() {
-        return null;
-    }
-
-    public int hh() {
-        return new java.util.Random().nextInt();
-    }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }
