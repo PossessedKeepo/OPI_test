@@ -15,4 +15,8 @@ public class E {
     public Object pp() {
         return this;
     }
+
+    public int ae() {
+        return 9;
+    }
 }
