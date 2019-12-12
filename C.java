@@ -23,4 +23,8 @@ public class C implements I {
     public Object rr() {
         return null;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
